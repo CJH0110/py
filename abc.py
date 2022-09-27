@@ -2,7 +2,7 @@ import re
 import requests
 import traceback
 from bs4 import BeautifulSoup
-print('21100510301 蔡建宏')
+
 def gethttptext(url,code='utf-8'):
     #获得url对应的页面
     try:
